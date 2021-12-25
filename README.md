@@ -10,3 +10,4 @@
 % (8) The Non-Shift Edge Based Ratio (NSER) 
 % (9) The Edge Based Image Quality Assessment (EBIQA) 
 % (10)The Edge and Pixel-Based Image Quality Assessment (EPIQA) 
+![IQA Metrics Outputs](https://user-images.githubusercontent.com/11339420/147384106-4150c838-baa4-4d93-af27-4446fcaf4447.JPG)
