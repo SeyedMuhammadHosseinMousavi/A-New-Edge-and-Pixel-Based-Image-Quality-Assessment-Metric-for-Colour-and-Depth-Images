@@ -9,7 +9,8 @@
 ### Link to the paper:
 - https://ieeexplore.ieee.org/document/9756490
 - DOI: 10.1109/CFIS54774.2022.9756490
-
+### Link to the NDDB dataset:
+- https://www.kaggle.com/datasets/hosseinmousavi/noisy-depth-database-nddb
 ## Overview
 
 This repository is dedicated to the paper **"A New Edge and Pixel-Based Image Quality Assessment Metric for Colour and Depth Images"**, which introduces a novel **Full-Reference Image Quality Assessment (FR-IQA)** metric called **EPIQA**. The method evaluates image quality by combining **edge-based** and **pixel-based** features, delivering enhanced performance compared to traditional IQA metrics.
