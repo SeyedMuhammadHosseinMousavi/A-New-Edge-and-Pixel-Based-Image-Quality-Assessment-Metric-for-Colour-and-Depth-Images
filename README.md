@@ -112,9 +112,8 @@ The proposed EPIQA metric has applications in:
 
 ---
 
-## Citation
+![figs](https://github.com/user-attachments/assets/7a27bd0a-d841-4ec7-8bb6-3702dd90751e)
 
-If you use the ideas or results from this paper, please cite:
 
 
 - 10 IQA metrics would be run on single  image, which are:
