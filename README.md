@@ -111,8 +111,9 @@ The proposed EPIQA metric has applications in:
 3. Incorporate **context-based features** to further enhance the metric's robustness.
 
 ---
+![figs](https://github.com/user-attachments/assets/2511d8d5-5882-4cbb-b5c7-1570c74e7e41)
 
-![figs](https://github.com/user-attachments/assets/7a27bd0a-d841-4ec7-8bb6-3702dd90751e)
+![figs2](https://github.com/user-attachments/assets/ae72953d-c186-4e6a-be35-221902d337cf)
 
 
 
